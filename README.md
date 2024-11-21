@@ -1,18 +1,26 @@
-Yemek Sipariş Uygulaması
+İlaç ve Su Takip Uygulaması
 
 Uygulamanın Temel İşlevleri
 
-✅ Yemekleri listeleme
-✅ Yemek detayı görme
-✅ Detay sayfasında adet seçebilme
-✅ Seçilen adet ile yemeği sepete ekleme
-✅ Sepetteki yemekleri görüntüleme
-✅ Sepetten yemek silme
+✅ İlaç listeleme
+
+✅ İlaç detayı görme
+
+✅ İlaç ekleme ve silme işlemleri
+
+✅ İlaç atılacak zamanı belirleme ve bildirim ekleme
+
+✅ İçilen suyu ekleme ve silme işlemleri
+
+✅ Su hedefine ulaşma
+
+✅ Arama çubuğu
 
 Kullanılan Yapılar
 
 ✅ Bloc uygulama mimarisi
-✅ Dio kütüphanesi (İnternetten veri almak için)
+
+✅ Bildirim fonksiyon işlemleri
 
 Uygulamadan İçi Ekran Görüntüleri
 ![IMG-20241121-WA0011](https://github.com/user-attachments/assets/f5b70724-82be-4772-b6a5-62070e9bdfb2)
