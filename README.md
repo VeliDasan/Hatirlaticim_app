@@ -15,7 +15,7 @@ Kullanılan Yapılar
 ✅ Dio kütüphanesi (İnternetten veri almak için)
 
 Uygulamadan İçi Ekran Görüntüleri
-![IMG-20241121-WA0008](https://github.com/user-attachments/assets/bca6f7fa-56e0-46ed-8ea5-4b07e8e645c7)
+![IMG-20241121-WA0011](https://github.com/user-attachments/assets/f5b70724-82be-4772-b6a5-62070e9bdfb2)
 
 ![IMG-20241121-WA0003](https://github.com/user-attachments/assets/73dfd73e-5224-41a9-a44a-76cb17bf5a51)
 
@@ -29,4 +29,6 @@ Uygulamadan İçi Ekran Görüntüleri
 
 ![IMG-20241121-WA0005](https://github.com/user-attachments/assets/f786a03c-c444-451d-98b9-8cc88a3c9ba3)
 
-![IMG-20241121-WA0011](https://github.com/user-attachments/assets/f5b70724-82be-4772-b6a5-62070e9bdfb2)
+![IMG-20241121-WA0008](https://github.com/user-attachments/assets/bca6f7fa-56e0-46ed-8ea5-4b07e8e645c7)
+
+
